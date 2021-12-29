@@ -19,6 +19,7 @@
 ### Projects 🖥
 
 [Math Calc](https://math-calc.the07coder.repl.co)
+
 [Loading Screen](https://loading-screen.the07coder.repl.co)  - Code Not Found On Github
 
 <!--
